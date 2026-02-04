@@ -34,7 +34,7 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
-``
+```
 
 %{
  int COMMENT=0;
@@ -78,7 +78,7 @@ yylex(); printf("\n\n"); return 0;
 {
 return 0;
 }
-``
+```
 # OUTPUT
 <img width="1477" height="603" alt="Screenshot 2026-02-04 233958" src="https://github.com/user-attachments/assets/0a6820f2-0c8b-45b6-8be7-b1e2a7d0ba1a" />
 
