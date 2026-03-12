@@ -80,7 +80,8 @@ return 0;
 }
 ```
 # OUTPUT
-<img width="1477" height="603" alt="Screenshot 2026-02-04 233958" src="https://github.com/user-attachments/assets/0a6820f2-0c8b-45b6-8be7-b1e2a7d0ba1a" />
+![WhatsApp Image 2026-03-12 at 11 30 35 AM](https://github.com/user-attachments/assets/d4276fca-bc76-4e76-acd2-f47a8aa786ec)
+
 
 # RESULT
 The lexical analyzer is implemented using lex and the output is verified.
